@@ -1,4 +1,4 @@
-package com.javarush.games.snake;
+
 
 import com.javarush.engine.cell.*;
 
